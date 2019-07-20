@@ -52,7 +52,7 @@ public class LianzhiMedicalApplication extends SpringBootServletInitializer {
 		
 		
 		
-		//test
+		//this test
 		//String password ="/sb/zq/惹人爱.txt".substring("/sb/zq/惹人爱.txt".lastIndexOf("/")+1); 
 		//String password = DigestUtils.md5Hex("111");
 		//System.out.println("加密后密码："+password);
