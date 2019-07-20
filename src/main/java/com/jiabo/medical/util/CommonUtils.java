@@ -8,7 +8,7 @@ import java.util.Random;
 
 import com.alibaba.druid.util.StringUtils;
 
-
+//通用工具
 public class CommonUtils {
 	
     
